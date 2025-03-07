@@ -19,7 +19,7 @@ This Laravel-based API manages users, projects, timesheets, and dynamic project 
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/bilahdsid/astudio-project-management
-   cd project-manager-api
+   cd astudio-project-management
    ```
 
 2. **Install Dependencies:**
